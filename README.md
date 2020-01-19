@@ -1,4 +1,4 @@
-# Data-Science-Capstone
+# Data Science Capstone Project
 Capstone project for Data Scientist Nanodegree (Udacity). 
 
 ## Description
@@ -11,4 +11,5 @@ At the beginning of the project I use unsupervised learning methods to analyze a
 **2. Supervised Learning Model**
 
 I had access to a third dataset with attributes from targets of a mail order campaign. With the previous analysis, I built a machine learning model that predicts whether or not each individual will respond to the campaign.
+
 
