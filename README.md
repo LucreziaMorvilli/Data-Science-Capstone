@@ -30,7 +30,8 @@ Used for this project but not available here as property of Arvato Bertelsmann G
 
 Included here:
 - This README.md file
-- 
+- Arvato Project Workbook.html: HTML version of the project
+- Arvato Project Workbook.ipynb: Python project in jupyter notebook
 - workspace_utils.py: includes a function to keep the session active (for the clustering for loop that tests different numbers of centroids)
 
 ### Acknowledgements
