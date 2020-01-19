@@ -2,7 +2,7 @@
 Capstone project for Data Scientist Nanodegree (Udacity). 
 
 ## Description
-The project has three major steps: the customer segmentation report, the supervised learning model, and the Kaggle Competition.
+The project has two major steps: the customer segmentation report and the supervised learning model.
 
 **1. Customer Segmentation Report**
 
